@@ -35,12 +35,13 @@ Uma característica essencial das estruturas de repetição é a sua forte liga�
 - Laços Condicionais: Ao contrário dos laços contados, os laços condicionais são usados quando o número de repetições não é conhecido de antemão. Nesses casos, a interrupção do laço depende de uma condição que pode mudar devido às instruções dentro do próprio laço.
 
 
-4 Considerações Finais:
+4 - Considerações Finais:
 
-Iniciamos nossa jornada compreendendo a importância da estrutura sequencial, onde as instruções são executadas em uma ordem linear, como uma receita de bolo, onde cada passo é crucial para o resultado final. Em seguida, desvendamos o poder das estruturas de decisão, que conferem aos nossos programas a capacidade de tomar decisões, como um GPS que recalcula a rota caso você faça um desvio. E, finalmente, mergulhamos nas estruturas de repetição, que nos permitem automatizar tarefas repetitivas, como um robô que executa a mesma ação várias vezes sem se cansar.  
-Cada um desses conceitos é fundamental para a construção de algoritmos eficientes e programas robustos. Encorajo vocês a revisitar os exemplos e exercícios presentes nas seções do livro, pois a prática é a chave para a consolidação do conhecimento.
-Lembrem-se da importância de salvar seus códigos no GitHub. Esta prática não apenas facilita o acompanhamento do seu progresso, mas também cria um portfólio valioso para futuras atividades e oportunidades.
-Agora, abro espaço para perguntas e dúvidas. Este é o momento para esclarecermos qualquer ponto que ainda não esteja claro.
+  Iniciamos nossa jornada compreendendo a importância da estrutura sequencial, onde as instruções são executadas em uma ordem linear, como uma receita de bolo, onde cada passo é crucial para o resultado final. Em seguida, desvendamos o poder das estruturas de decisão, que conferem aos nossos programas a capacidade de tomar decisões, como um GPS que recalcula a rota caso você faça um desvio. E, finalmente, mergulhamos nas estruturas de repetição, que nos permitem automatizar tarefas repetitivas, como um robô que executa a mesma ação várias vezes sem se cansar.  
+  Cada um desses conceitos é fundamental para a construção de algoritmos eficientes e programas robustos. Encorajo vocês a revisitar os exemplos e exercícios presentes nas seções do livro, pois a prática é a chave para a consolidação do conhecimento.
+  Lembrem-se da importância de salvar seus códigos no GitHub. Esta prática não apenas facilita o acompanhamento do seu progresso, mas também cria um portfólio valioso para futuras atividades e oportunidades.
+  Agora, abro espaço para perguntas e dúvidas. Este é o momento para esclarecermos qualquer ponto que ainda não esteja claro.
+
 
 5 - Encerramento
 
