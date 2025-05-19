@@ -1,10 +1,10 @@
-<h3>Nomes:
-Lucas de Sousa Andrade - RGM (27963217),
-Raphael Veras Rezende - RGM (28253671), 
-Ezequiel Magalhães - RGM (28256131),
-Diego Lohan - RGM (27990231),
-Guilherme Coelho - RGM (30365074).</h3>
-<h3>Universidade do Distrito Federal (UDF)</h3>
+## Nomes: 
+### Lucas de Sousa Andrade - RGM (27963217),
+### Raphael Veras Rezende - RGM (28253671), 
+### Ezequiel Magalhães - RGM (28256131),
+### Diego Lohan - RGM (27990231),
+### Guilherme Coelho - RGM (30365074).
+## Universidade do Distrito Federal (UDF)
 
 1 - Introdução e Resumo
 
